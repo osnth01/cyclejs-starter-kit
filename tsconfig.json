@@ -6,6 +6,9 @@
     "module": "commonjs",
     "target": "es5"
   },
+  "files": [
+    "./typings/index.d.ts"
+  ],
   "filesGlob": [
      "./src/**/*.ts"
   ]
